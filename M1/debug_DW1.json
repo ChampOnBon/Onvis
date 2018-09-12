@@ -1,0 +1,7 @@
+{
+	"model" : "DW1",
+	"version" : "2.2.1",
+	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/debug_DW1.zip",
+	"url2" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/debug_DW1_mini.zip",
+	"description" : "This version has following function:  \n1.The real-time detection of door switch.\n2.Records of recent 100 times contact sensor operation.\n3.Save contact sensor history data from today to 31 days before.\n4.Detect percentage of the battery power in real-time."
+}	
