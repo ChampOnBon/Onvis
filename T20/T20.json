@@ -1,0 +1,16 @@
+{
+    "T20":{
+	"T20-UA2": {
+	    "path": "/ChampOnBon/Onvis/master/T20/",
+	    "filename": "T20-UA2.json"
+	},
+	"T20-EA1": {
+	    "path": "/ChampOnBon/Onvis/master/T20/",
+            "filename": "T20-EA1.json"
+	},
+	"T20-KA1": {
+            "path": "/ChampOnBon/Onvis/master/T20/",
+            "filename": "T20-KA1.json"
+	}
+    }
+}
