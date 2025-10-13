@@ -3,13 +3,13 @@
         "version": "1",
         "path": "/ChampOnBon/Onvis/master/T20/",
         "filename": "T20-EA1.bin",
-        "sha256": "534ff9adf34468a094a987b59170f816e7ca67bfe89e4541f1b63caa80e92fc7",
+        "sha256": "579cfe6656afa2252317e8a72d6661e08b301edf5d5d57194251ab834cea7b96",
         "white list": {
             "1": {
                 "list": ["0", "CHAMPON789456321", "CHAMPON789456123"],
                 "path": "/ChampOnBon/Onvis/master/T20/",
                 "filename": "T20-EA1.bin",
-                "sha256": "534ff9adf34468a094a987b59170f816e7ca67bfe89e4541f1b63caa80e92fc7"
+                "sha256": "579cfe6656afa2252317e8a72d6661e08b301edf5d5d57194251ab834cea7b96"
             }
         },
         "black list": {
@@ -17,7 +17,7 @@
                 "version": "1",
                 "path": "/ChampOnBon/Onvis/master/T20/",
                 "filename": "T20-EA1.bin",
-                "sha256": "534ff9adf34468a094a987b59170f816e7ca67bfe89e4541f1b63caa80e92fc7"
+                "sha256": "579cfe6656afa2252317e8a72d6661e08b301edf5d5d57194251ab834cea7b96"
             }
         }
     }
