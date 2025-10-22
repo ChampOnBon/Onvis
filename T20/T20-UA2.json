@@ -5,11 +5,11 @@
         "filename": "T20-UA2.bin",
         "sha256": "579cfe6656afa2252317e8a72d6661e08b301edf5d5d57194251ab834cea7b96",
         "white list": {
-            "1": {
-                "list": ["0", "CHAMPON789456321", "CHAMPON789456123"],
+            "3": {
+                "list": ["CPOV142518000035", "CHAMPON789456321", "CHAMPON789456123"],
                 "path": "/ChampOnBon/Onvis/master/T20/",
-                "filename": "T20-UA2.bin",
-                "sha256": "579cfe6656afa2252317e8a72d6661e08b301edf5d5d57194251ab834cea7b96"
+                "filename": "T20.bin",
+                "sha256": "0e596493b4dda23654d2682cc38b186241924d777d90f4c73551458dc63c94bd"
             }
         },
         "black list": {
