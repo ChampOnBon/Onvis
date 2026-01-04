@@ -1,9 +1,9 @@
 {
     "T20": {
-        "version": "200",
+        "version": "300",
         "path": "/ChampOnBon/Onvis/master/T20/",
-        "filename": "T20-UA2.bin",
-        "sha256": "05350777dc0fe11fd474aedd6f34471b92979ed4d47ce7c09e884d926ce8ff04",
+        "filename": "T20.bin",
+        "sha256": "ac63ef9619efc74b80a5573ecd046ffee1215ab2d8b44009ab3da6a479c74495",
         "white list": {
             "3": {
                 "list": ["0", "CHAMPON789456321", "CHAMPON789456123"],
